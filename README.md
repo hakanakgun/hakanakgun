@@ -6,7 +6,7 @@
 <!--Here are some ideas to get you started: 
 -->
 
-- 👾 I’m currently working on Product Management as Data Product Owner at [ComeOn Group](https://www.linkedin.com/company/comeon-group)
+- 👾 I’m currently working on Product Management as Product & System Solution Team Lead at [KAREL](https://www.linkedin.com/company/karel-tr/)
 - 🌱 I’m currently learning Product Management best practices
 - 🎗️ I’m looking to collaborate on sharing knowledge about product development lifecycle management.
 - 💬 Ask me about technology, product development and management
